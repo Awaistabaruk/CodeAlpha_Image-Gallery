@@ -6,7 +6,6 @@ This project demonstrates how to create a clean photo gallery with hover effects
 ---
 
 ## 🚀 Features
-- Responsive grid layout for images  
 - Hover effects with smooth transitions  
 - Click-to-view in fullscreen (lightbox)  
 - Easy to customize and extend  
