@@ -22,7 +22,7 @@ This project demonstrates how to create a clean photo gallery with hover effects
 ---
 
 ## 🌍 Live Demo
-🔗 [View Live Project](https://Awaistabaruk.github.io/CodeAlpha_image-gallery/)  
+🔗 [View Live Project](https://awaistabaruk.github.io/CodeAlpha_Image-Gallery/)  
 
 
 
